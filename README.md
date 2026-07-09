@@ -92,15 +92,8 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ## 🙏 Créditos
 
-- Desenvolvido por [Lucas R. Paulino](https://github.com/lrpaulino).
 - Inspirado na franquia *Fallout* da Bethesda Softworks.
 - Agradecimentos especiais à comunidade de modding e fãs.
-
----
-
-## 📬 Contato
-
-Se tiver dúvidas, sugestões ou quiser trocar uma ideia, abra uma *issue* ou entre em contato.
 
 ---
 
