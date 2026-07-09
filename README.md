@@ -1,4 +1,4 @@
-# 🧨 Fallout Terminal Hacker — Word Filter System
+# 👨🏻‍💻🧨 Fallout Terminal Hacker — Word Filter System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS%20%26%20JS-blue)](#)
