@@ -40,8 +40,6 @@ Clique em **"Carregar Lista"**.
 5. **Use a "Dica Escondida"** – Se quiser simular a função `[ ]` do jogo, clique no botão para remover aleatoriamente uma palavra da lista de candidatas (sem revelar qual).
 6. **Repita** – Continue testando palavras até restar apenas uma candidata. Essa é a sua senha!
 
-> **Dica:** Você pode usar o botão **"Auto-Sugerir Candidata"** (caso tenha implementado) para preencher o campo de tentativa com a primeira palavra da lista, agilizando o processo.
-
 ---
 
 ## ✨ Funcionalidades
@@ -62,7 +60,6 @@ Clique em **"Carregar Lista"**.
 - **HTML5** – Estrutura semântica.
 - **CSS3** – Estilização com efeitos de scanline, animações e layout responsivo.
 - **JavaScript (ES6+)** – Lógica de filtragem, manipulação do DOM e interatividade.
-- **Fonte** – `Courier New` para visual autêntico de terminal.
 
 ---
 
